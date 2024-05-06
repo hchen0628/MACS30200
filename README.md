@@ -13,3 +13,5 @@ Through this research, we aim to determine whether the legal and surveillance pr
 
 # Data
 This project has now crawled data from the end of April 2024 to the end of September 2022, totaling about 340,243 rows.
+
+Please see for available data right now: https://docs.google.com/spreadsheets/d/1HV38-rp1jabZFsbEgiiZgAtbJaHLWcHw/edit?usp=sharing&ouid=100247803780513432805&rtpof=true&sd=true
